@@ -1,0 +1,13 @@
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\bin\Debug\netcoreapp3.1\LabmdaDelegatesLinq.exe
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\bin\Debug\netcoreapp3.1\LabmdaDelegatesLinq.deps.json
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\bin\Debug\netcoreapp3.1\LabmdaDelegatesLinq.runtimeconfig.json
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\bin\Debug\netcoreapp3.1\LabmdaDelegatesLinq.runtimeconfig.dev.json
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\bin\Debug\netcoreapp3.1\LabmdaDelegatesLinq.dll
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\bin\Debug\netcoreapp3.1\LabmdaDelegatesLinq.pdb
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\obj\Debug\netcoreapp3.1\LabmdaDelegatesLinq.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\obj\Debug\netcoreapp3.1\LabmdaDelegatesLinq.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\obj\Debug\netcoreapp3.1\LabmdaDelegatesLinq.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\obj\Debug\netcoreapp3.1\LabmdaDelegatesLinq.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\obj\Debug\netcoreapp3.1\LabmdaDelegatesLinq.dll
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\obj\Debug\netcoreapp3.1\LabmdaDelegatesLinq.pdb
+C:\Users\Andrew\Desktop\C# .NET projects\LabmdaDelegatesLinq\LabmdaDelegatesLinq\obj\Debug\netcoreapp3.1\LabmdaDelegatesLinq.genruntimeconfig.cache
